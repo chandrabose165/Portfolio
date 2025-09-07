@@ -9,7 +9,7 @@ export function Projects() {
       description: "A secure, user-friendly carpooling platform featuring real-time ride matching and route optimization to reduce fuel consumption. Integrated cost-sharing mechanisms and seamless payment processing to make commuting affordable, efficient, and sustainable.",
       technologies: ["Frontend Development", "Real-time Processing", "Route Optimization", "Payment Integration"],
       liveUrl: "https://car-pooling-client.vercel.app/",
-      githubUrl: "https://github.com/chandrabose165",
+      githubUrl: "https://github.com/vijaykumar851/CarPooling-Client.git",
       imageGradient: "from-green-500 to-teal-500"
     },
     {
